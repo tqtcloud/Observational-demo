@@ -2,7 +2,7 @@
 可观测性实现的部分截图
 
 devops数据展示
-![image](https://user-images.githubusercontent.com/86145643/163686681-46fdfdf4-3346-484d-857f-bd132b25a644.png)
+![image](https://user-images.githubusercontent.com/86145643/163811066-10ff9632-e328-46b5-8434-fde567a6b137.png)
 
 ![image](https://user-images.githubusercontent.com/86145643/163686799-d072fa03-1c49-499c-8885-f3a11529a08b.png)
 
